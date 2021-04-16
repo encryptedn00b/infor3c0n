@@ -1,5 +1,5 @@
 # infor3c0n
-<img src="inforecon.png"><br>
+<img src="inforecon.PNG"><br>
 * `Infor3c0n is a python tool ⚡`
 * `Gethering Information`
 * `Grabbing Banners, Hostname and IP Lookup`
@@ -17,6 +17,6 @@ git clone https://github.com/encryptedn00b/infor3c0n
 Run it
 ```bash
 cd infor3c0n
-python3 inforecon.py
+python3 inforecon.py www.encryptedn00b.cf 
 ```
 
